@@ -1,0 +1,70 @@
+--------------------
+Date: 24:11:2020
+Time: 22:12
+Phone number: +918002478328
+Message: Message sent by Apna Bazaar App created by Atul kr Singh
+--------------------
+Date: 24:11:2020
+Time: 22:35
+Phone number: +918709252755
+Message: test Message sent by Apna Bazaar App! created by Atul kr Singh
+--------------------
+Date: 24:11:2020
+Time: 22:37
+Phone number: +918709252755
+Message: test Message sent by Apna Bazaar App! created by Atul kr Singh
+--------------------
+Date: 24:11:2020
+Time: 22:42
+Phone number: +918709252755
+Message: test Message sent by Apna Bazaar App! created by Atul kr Singh
+--------------------
+Date: 24:11:2020
+Time: 22:46
+Phone number: +918709252755
+Message: test Message sent by Apna Bazaar App! created by Atul kr Singh
+--------------------
+Date: 26:11:2020
+Time: 13:33
+Phone number: +91
+Message: BILL FOR YOUR PURCHASE
+Mr/Ms  are sending you your bill,
+
+ 	      ****APNA BAZAAR****
+	   Thanks for shoppng with us
+DT: 26/ 11/ 2020
+Time: 13:30:05
+Bill No: 
+------------------------------------------------
+Cus.-			Phone-
+Mail-id-
+------------------------------------------------
+[Item]		     [Qty]		[Price]
+------------------------------------------------
+
+
+
+ Thanks For shopping with us! Looking forward to see you soon.
+--------------------
+Date: 26:11:2020
+Time: 20:20
+Phone number: +918002478328
+Message: BILL FOR YOUR PURCHASE
+Mr/Ms Esar Sadique are sending you your bill,
+
+ 	      ****APNA BAZAAR****
+	   Thanks for shoppng with us
+DT: 26/ 11/ 2020
+Time: 20:16:06
+Bill No: 
+------------------------------------------------
+Cus.-			Phone-
+Mail-id-
+------------------------------------------------
+[Item]		     [Qty]		[Price]
+------------------------------------------------
+
+
+
+ Thanks For shopping with us! Looking forward to see you soon.
+--------------------

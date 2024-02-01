@@ -155,7 +155,7 @@ class Retail:
             content = f"BILL FOR YOUR PURCHASE\nMr/Ms {self.cname} are sending you your bill,\n\n{self.bill_data}\n\n Thanks For shopping with us! Looking forward to see you soon."
             msg = MIMEText(content)
             sent_from = "apnaBazaarpvtltd@gmail.com"
-            passwd = "apnabazaar@"
+            passwd = "xxxxxxx"
             sent_to = self.cmail
             server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
             server.login(sent_from,passwd)

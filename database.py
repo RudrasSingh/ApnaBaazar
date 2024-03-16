@@ -3,13 +3,13 @@ import sqlite3 as sql
 
 global cur,db
 
-db = sql.connect("gyaanConnect.db")
-cur = db.cursor()       
+dbs = sql.connect("gyaanConnect.db")
+cur = dbs.cursor()        
 
 def sqlInsert(cursor_command):
 
     cursor_command
-    db.commit()
+    dbs.commit()
 
 
 def sqlAccess(cursor_command):   
